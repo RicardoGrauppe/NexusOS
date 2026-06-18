@@ -211,6 +211,30 @@ Iniciar Onboarding
 
 O Claude vai guiar você por todo o processo de configuração.
 
+### Ativando as cores das pastas
+
+O vault já vem com um CSS snippet que colore os grupos de pastas visualmente. Para ativar:
+
+1. No Obsidian, vá em **Settings** (ícone de engrenagem no canto inferior esquerdo)
+2. No menu lateral, clique em **Appearance**
+3. Role até a seção **CSS snippets**
+4. Clique no ícone de pasta para abrir a pasta de snippets — o arquivo `folder-colors.css` já estará lá
+5. Ative o toggle ao lado de **folder-colors**
+
+As pastas ganharão fundo colorido por grupo imediatamente:
+
+| Cor | Grupo |
+|---|---|
+| 🩵 Teal | INBOX e Dashboard (visão geral) |
+| 🟣 Roxo | Identidade & Direção (02–04) |
+| 🟢 Verde | Mercado & Receita (05–08) |
+| 🟡 Âmbar | Operações Internas (09–13) |
+| 🔵 Azul | Inteligência & Futuro (14–17) |
+| 🔴 Rosa | Generated Assets (18) |
+| ⬜ Cinza | Arquivos de sistema (CHANGELOG, CLAUDE.md, README) |
+
+> Se as cores não aparecerem, clique no ícone de atualização (🔄) ao lado da seção CSS snippets para forçar o recarregamento.
+
 ---
 
 ## Por que Obsidian?
