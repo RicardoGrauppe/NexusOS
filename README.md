@@ -223,15 +223,15 @@ O vault já vem com um CSS snippet que colore os grupos de pastas visualmente. P
 
 As pastas ganharão fundo colorido por grupo imediatamente:
 
-| Cor | Grupo |
-|---|---|
-| 🩵 Teal | INBOX e Dashboard (visão geral) |
-| 🟣 Roxo | Identidade & Direção (02–04) |
-| 🟢 Verde | Mercado & Receita (05–08) |
-| 🟡 Âmbar | Operações Internas (09–13) |
-| 🔵 Azul | Inteligência & Futuro (14–17) |
-| 🔴 Rosa | Generated Assets (18) |
-| ⬜ Cinza | Arquivos de sistema (CHANGELOG, CLAUDE.md, README) |
+| Cor      | Grupo                                              |
+| -------- | -------------------------------------------------- |
+| 🩵 Teal  | INBOX e Dashboard (visão geral)                    |
+| 🟣 Roxo  | Identidade & Direção (02–04)                       |
+| 🟢 Verde | Mercado & Receita (05–08)                          |
+| 🟡 Âmbar | Operações Internas (09–13)                         |
+| 🔵 Azul  | Inteligência & Futuro (14–17)                      |
+| 🔴 Rosa  | Generated Assets (18)                              |
+| ⬜ Cinza  | Arquivos de sistema (CHANGELOG, CLAUDE.md, README) |
 
 > Se as cores não aparecerem, clique no ícone de atualização (🔄) ao lado da seção CSS snippets para forçar o recarregamento.
 
