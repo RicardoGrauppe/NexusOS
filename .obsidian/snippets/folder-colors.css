@@ -1,0 +1,93 @@
+/* ============================================================
+   EMPRESA OS — Folder Colors
+   Grupos visuais alinhados com a estrutura do vault
+   ============================================================ */
+
+/* ----------------------------------------------------------
+   GRUPO 1 · Identidade & Direção  →  Roxo
+   02 Company Core · 03 Strategy · 04 Projects
+   ---------------------------------------------------------- */
+.nav-folder-title[data-path^="02"],
+.nav-folder-title[data-path^="03"],
+.nav-folder-title[data-path^="04"] {
+  color: #8b5cf6 !important;
+}
+.nav-folder-title[data-path^="02"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="03"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="04"] .nav-folder-collapse-indicator {
+  color: #8b5cf6 !important;
+}
+
+/* ----------------------------------------------------------
+   GRUPO 2 · Mercado & Receita  →  Verde
+   05 Customers · 06 Marketing · 07 Sales · 08 Products
+   ---------------------------------------------------------- */
+.nav-folder-title[data-path^="05"],
+.nav-folder-title[data-path^="06"],
+.nav-folder-title[data-path^="07"],
+.nav-folder-title[data-path^="08"] {
+  color: #10b981 !important;
+}
+.nav-folder-title[data-path^="05"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="06"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="07"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="08"] .nav-folder-collapse-indicator {
+  color: #10b981 !important;
+}
+
+/* ----------------------------------------------------------
+   GRUPO 3 · Operações Internas  →  Âmbar
+   09 Operations · 10 People · 11 Finance · 12 Legal · 13 Vendors
+   ---------------------------------------------------------- */
+.nav-folder-title[data-path^="09"],
+.nav-folder-title[data-path^="10"],
+.nav-folder-title[data-path^="11"],
+.nav-folder-title[data-path^="12"],
+.nav-folder-title[data-path^="13"] {
+  color: #f59e0b !important;
+}
+.nav-folder-title[data-path^="09"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="10"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="11"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="12"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="13"] .nav-folder-collapse-indicator {
+  color: #f59e0b !important;
+}
+
+/* ----------------------------------------------------------
+   GRUPO 4 · Inteligência & Futuro  →  Azul
+   14 AI & Automation · 15 Analytics · 16 Knowledge · 17 Future
+   ---------------------------------------------------------- */
+.nav-folder-title[data-path^="14"],
+.nav-folder-title[data-path^="15"],
+.nav-folder-title[data-path^="16"],
+.nav-folder-title[data-path^="17"] {
+  color: #3b82f6 !important;
+}
+.nav-folder-title[data-path^="14"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="15"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="16"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path^="17"] .nav-folder-collapse-indicator {
+  color: #3b82f6 !important;
+}
+
+/* ----------------------------------------------------------
+   GRUPO 5 · Generated Assets  →  Rosa
+   18 Generated Assets
+   ---------------------------------------------------------- */
+.nav-folder-title[data-path^="18"] {
+  color: #f43f5e !important;
+}
+.nav-folder-title[data-path^="18"] .nav-folder-collapse-indicator {
+  color: #f43f5e !important;
+}
+
+/* ----------------------------------------------------------
+   CHANGELOG  →  Cinza sutil (log do sistema)
+   ---------------------------------------------------------- */
+.nav-folder-title[data-path="CHANGELOG"] {
+  color: #94a3b8 !important;
+}
+.nav-folder-title[data-path="CHANGELOG"] .nav-folder-collapse-indicator {
+  color: #94a3b8 !important;
+}
