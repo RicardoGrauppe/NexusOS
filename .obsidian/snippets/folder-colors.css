@@ -1,50 +1,49 @@
 /* ============================================================
-   EMPRESA OS — Folder Hover Colors
+   EMPRESA OS — Folder Background Colors
    ============================================================ */
 
 .nav-folder-title {
   border-radius: 4px;
-  transition: background-color 0.15s ease;
 }
 
 /* Grupo 1 · Identidade & Direção  →  Roxo */
-.nav-folder-title[data-path^="02"]:hover,
-.nav-folder-title[data-path^="03"]:hover,
-.nav-folder-title[data-path^="04"]:hover {
-  background-color: rgba(139, 92, 246, 0.1) !important;
+.nav-folder-title[data-path^="02"],
+.nav-folder-title[data-path^="03"],
+.nav-folder-title[data-path^="04"] {
+  background-color: rgba(139, 92, 246, 0.08) !important;
 }
 
 /* Grupo 2 · Mercado & Receita  →  Verde */
-.nav-folder-title[data-path^="05"]:hover,
-.nav-folder-title[data-path^="06"]:hover,
-.nav-folder-title[data-path^="07"]:hover,
-.nav-folder-title[data-path^="08"]:hover {
-  background-color: rgba(16, 185, 129, 0.1) !important;
+.nav-folder-title[data-path^="05"],
+.nav-folder-title[data-path^="06"],
+.nav-folder-title[data-path^="07"],
+.nav-folder-title[data-path^="08"] {
+  background-color: rgba(16, 185, 129, 0.08) !important;
 }
 
 /* Grupo 3 · Operações Internas  →  Âmbar */
-.nav-folder-title[data-path^="09"]:hover,
-.nav-folder-title[data-path^="10"]:hover,
-.nav-folder-title[data-path^="11"]:hover,
-.nav-folder-title[data-path^="12"]:hover,
-.nav-folder-title[data-path^="13"]:hover {
-  background-color: rgba(245, 158, 11, 0.1) !important;
+.nav-folder-title[data-path^="09"],
+.nav-folder-title[data-path^="10"],
+.nav-folder-title[data-path^="11"],
+.nav-folder-title[data-path^="12"],
+.nav-folder-title[data-path^="13"] {
+  background-color: rgba(245, 158, 11, 0.08) !important;
 }
 
 /* Grupo 4 · Inteligência & Futuro  →  Azul */
-.nav-folder-title[data-path^="14"]:hover,
-.nav-folder-title[data-path^="15"]:hover,
-.nav-folder-title[data-path^="16"]:hover,
-.nav-folder-title[data-path^="17"]:hover {
-  background-color: rgba(59, 130, 246, 0.1) !important;
+.nav-folder-title[data-path^="14"],
+.nav-folder-title[data-path^="15"],
+.nav-folder-title[data-path^="16"],
+.nav-folder-title[data-path^="17"] {
+  background-color: rgba(59, 130, 246, 0.08) !important;
 }
 
 /* Grupo 5 · Generated Assets  →  Rosa */
-.nav-folder-title[data-path^="18"]:hover {
-  background-color: rgba(244, 63, 94, 0.1) !important;
+.nav-folder-title[data-path^="18"] {
+  background-color: rgba(244, 63, 94, 0.08) !important;
 }
 
 /* CHANGELOG  →  Cinza */
-.nav-folder-title[data-path="CHANGELOG"]:hover {
-  background-color: rgba(148, 163, 184, 0.1) !important;
+.nav-folder-title[data-path="CHANGELOG"] {
+  background-color: rgba(148, 163, 184, 0.08) !important;
 }
