@@ -11,20 +11,20 @@
 .nav-file-title[data-path="! 🚀 START HERE.md"],
 .nav-file-title[data-path="CLAUDE.md"],
 .nav-file-title[data-path="README.md"] {
-  background-color: rgba(148, 163, 184, 0.10) !important;
+  background-color: rgba(148, 163, 184, 0.20) !important;
 }
 
 /* ── 00 INBOX + 01 Dashboard  →  Teal (visão geral da empresa) ── */
 .nav-folder-title[data-path^="00"],
 .nav-folder-title[data-path^="01"] {
-  background-color: rgba(20, 184, 166, 0.10) !important;
+  background-color: rgba(20, 184, 166, 0.20) !important;
 }
 
 /* ── Grupo 1 · Identidade & Direção  →  Roxo ── */
 .nav-folder-title[data-path^="02"],
 .nav-folder-title[data-path^="03"],
 .nav-folder-title[data-path^="04"] {
-  background-color: rgba(139, 92, 246, 0.10) !important;
+  background-color: rgba(139, 92, 246, 0.20) !important;
 }
 
 /* ── Grupo 2 · Mercado & Receita  →  Verde ── */
@@ -32,7 +32,7 @@
 .nav-folder-title[data-path^="06"],
 .nav-folder-title[data-path^="07"],
 .nav-folder-title[data-path^="08"] {
-  background-color: rgba(16, 185, 129, 0.10) !important;
+  background-color: rgba(16, 185, 129, 0.20) !important;
 }
 
 /* ── Grupo 3 · Operações Internas  →  Âmbar ── */
@@ -41,7 +41,7 @@
 .nav-folder-title[data-path^="11"],
 .nav-folder-title[data-path^="12"],
 .nav-folder-title[data-path^="13"] {
-  background-color: rgba(245, 158, 11, 0.10) !important;
+  background-color: rgba(245, 158, 11, 0.20) !important;
 }
 
 /* ── Grupo 4 · Inteligência & Futuro  →  Azul ── */
@@ -49,15 +49,15 @@
 .nav-folder-title[data-path^="15"],
 .nav-folder-title[data-path^="16"],
 .nav-folder-title[data-path^="17"] {
-  background-color: rgba(59, 130, 246, 0.10) !important;
+  background-color: rgba(59, 130, 246, 0.20) !important;
 }
 
 /* ── Grupo 5 · Generated Assets  →  Rosa ── */
 .nav-folder-title[data-path^="18"] {
-  background-color: rgba(244, 63, 94, 0.10) !important;
+  background-color: rgba(244, 63, 94, 0.20) !important;
 }
 
 /* ── CHANGELOG  →  Cinza ── */
 .nav-folder-title[data-path="CHANGELOG"] {
-  background-color: rgba(148, 163, 184, 0.10) !important;
+  background-color: rgba(148, 163, 184, 0.20) !important;
 }
