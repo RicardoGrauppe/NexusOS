@@ -195,7 +195,7 @@ O índice `CHANGELOG/CHANGELOG.md` funciona como navegação histórica de tudo 
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/RicardoGrauppe/empresa-os.git
+git clone https://github.com/RicardoGrauppe/NexusOS.git
 ```
 
 **2. Abra como vault no Obsidian**
