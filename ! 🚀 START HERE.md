@@ -2,7 +2,7 @@
 tags: [onboarding, setup]
 ---
 
-# Bem-vindo ao Empresa OS
+# Bem-vindo ao Nexus OS
 
 > [!tip] Você tem em mãos o sistema de gestão empresarial mais completo para Obsidian.
 > Siga os passos abaixo em ordem. Em menos de 2 horas o sistema estará rodando com os dados da sua empresa.
@@ -11,7 +11,7 @@ tags: [onboarding, setup]
 
 ## O que você tem aqui
 
-O **Empresa OS** é um segundo cérebro para empresas. Centraliza tudo que uma empresa precisa saber, fazer e registrar — em um único lugar, offline, sob o seu controle total.
+O **Nexus OS** é um segundo cérebro para empresas. Centraliza tudo que uma empresa precisa saber, fazer e registrar — em um único lugar, offline, sob o seu controle total.
 
 **18 áreas cobertas:**
 Identidade · Estratégia · Projetos · Clientes · Marketing · Vendas · Produtos · Operações · Time · Finanças · Jurídico · Fornecedores · IA & Automação · Analytics · Conhecimento · Inovação · Assets Gerados
@@ -114,10 +114,10 @@ Manual completo → [[CLAUDE]]
 
 ---
 
-> [!success] Quando as 3 fases estiverem concluídas, seu Empresa OS está operacional.
+> [!success] Quando as 3 fases estiverem concluídas, seu Nexus OS está operacional.
 > Use diariamente para registrar decisões, reuniões, projetos e dados.
 > Peça ao Claude para gerar relatórios, dashboards e análises quando precisar.
 
 ---
 
-*Empresa OS v1.1 · Mantenha o [[CHANGELOG]] atualizado com todas as ações relevantes.*
+*Nexus OS v1.1 · Mantenha o [[CHANGELOG]] atualizado com todas as ações relevantes.*

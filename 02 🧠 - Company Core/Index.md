@@ -5,7 +5,7 @@ tags: [company-core, onboarding, setup]
 # 02 🧠 — Company Core
 
 > [!tip] Seção Fundacional
-> Preencha este documento antes de qualquer outra seção. Tudo no Empresa OS referencia a identidade definida aqui.
+> Preencha este documento antes de qualquer outra seção. Tudo no Nexus OS referencia a identidade definida aqui.
 
 ---
 

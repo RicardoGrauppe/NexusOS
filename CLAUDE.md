@@ -1,4 +1,4 @@
-# CLAUDE.md — Empresa OS: Manual do Orquestrador
+# CLAUDE.md — Nexus OS: Manual do Orquestrador
 
 > **Este documento é o cérebro do cérebro.**
 > Ele define como este vault funciona, o papel do Claude como orquestrador, as convenções que todos devem seguir e os processos para manter tudo organizado e rastreável.
@@ -6,9 +6,9 @@
 
 ---
 
-## 1. O que é o Empresa OS
+## 1. O que é o Nexus OS
 
-O **Empresa OS** é um segundo cérebro empresarial universal construído dentro do Obsidian. Ele foi projetado para:
+O **Nexus OS** é um segundo cérebro empresarial universal construído dentro do Obsidian. Ele foi projetado para:
 
 - Centralizar o conhecimento institucional da empresa
 - Documentar processos, SOPs, decisões e estratégias

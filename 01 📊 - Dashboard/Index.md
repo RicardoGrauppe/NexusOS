@@ -1,4 +1,4 @@
-# Dashboard — Empresa OS
+# Dashboard — Nexus OS
 
 > Visão central do vault. Atualize os links abaixo conforme a empresa cresce.
 

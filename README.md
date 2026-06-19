@@ -1,4 +1,4 @@
-# 🧠 Empresa OS — O Segundo Cérebro da Sua Empresa
+# 🧠 Nexus OS — O Segundo Cérebro da Sua Empresa
 
 > **Um sistema completo de gestão do conhecimento empresarial, construído no Obsidian e orquestrado por Inteligência Artificial.**
 
@@ -17,13 +17,13 @@ Quando alguém sai da empresa, o conhecimento vai junto.
 Quando a equipe cresce, os processos se perdem.
 Quando o CEO precisa de um número, ninguém sabe onde está.
 
-**O Empresa OS resolve isso de uma vez por todas.**
+**O Nexus OS resolve isso de uma vez por todas.**
 
 ---
 
-## O que é o Empresa OS
+## O que é o Nexus OS
 
-O **Empresa OS** é um vault do Obsidian pré-estruturado que funciona como o sistema operacional da sua empresa — centralizando estratégia, operações, finanças, pessoas, clientes e conhecimento em um único lugar organizado, pesquisável e vivo.
+O **Nexus OS** é um vault do Obsidian pré-estruturado que funciona como o sistema operacional da sua empresa — centralizando estratégia, operações, finanças, pessoas, clientes e conhecimento em um único lugar organizado, pesquisável e vivo.
 
 A grande diferença: **o Claude AI atua como orquestrador de toda a base de conhecimento.** Você conversa com o Claude como conversaria com um assistente executivo inteligente — e ele cria documentos, gera dashboards, reorganiza estruturas, registra logs e mantém tudo coeso.
 
@@ -249,7 +249,7 @@ As pastas ganharão fundo colorido por grupo imediatamente:
 
 ## Por que Claude como orquestrador?
 
-Qualquer ferramenta pode armazenar documentos. O diferencial do Empresa OS é que **o Claude entende o contexto do vault inteiro** — e age como um assistente executivo que conhece a estrutura, as convenções, o histórico de mudanças e as regras do sistema.
+Qualquer ferramenta pode armazenar documentos. O diferencial do Nexus OS é que **o Claude entende o contexto do vault inteiro** — e age como um assistente executivo que conhece a estrutura, as convenções, o histórico de mudanças e as regras do sistema.
 
 Ele não apenas gera texto. Ele **salva no lugar certo**, **registra o log**, **aplica as convenções de nome**, **pede confirmação antes de ações destrutivas** e **mantém o CLAUDE.md atualizado** quando a estrutura muda.
 

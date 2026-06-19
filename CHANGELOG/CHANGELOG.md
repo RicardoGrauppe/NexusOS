@@ -1,4 +1,4 @@
-# CHANGELOG — Empresa OS
+# CHANGELOG — Nexus OS
 
 > Log auditável de todas as ações realizadas no vault.
 > Mantido automaticamente pelo Claude.
