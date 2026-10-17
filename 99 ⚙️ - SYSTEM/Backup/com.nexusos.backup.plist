@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.nexusos.backup</string>
+
+  <!-- CAMINHO_DO_VAULT é trocado pelo caminho real no setup (ver RESTAURAR.md) -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>CAMINHO_DO_VAULT/99 ⚙️ - SYSTEM/Backup/backup.sh</string>
+  </array>
+
+  <!-- Todo domingo às 20h. Se o Mac estiver desligado na hora,
+       o launchd roda assim que ele voltar. -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key><integer>0</integer>
+    <key>Hour</key><integer>20</integer>
+    <key>Minute</key><integer>0</integer>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StandardOutPath</key>
+  <string>CAMINHO_DO_VAULT/99 ⚙️ - SYSTEM/Backup/backup.log</string>
+  <key>StandardErrorPath</key>
+  <string>CAMINHO_DO_VAULT/99 ⚙️ - SYSTEM/Backup/backup.log</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+</dict>
+</plist>

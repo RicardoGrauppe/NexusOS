@@ -1,0 +1,24 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dependências e builds (regeneráveis)
+node_modules/
+.next/
+
+# Segredos — nunca versionar (o backup guarda Credenciais.md cifrado)
+.env
+.env.*
+!.env.example
+**/Credenciais.md
+
+# Estado local do Claude Code e do Obsidian (muda toda hora)
+.claude/settings.local.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Backup — artefatos locais e material descriptografado
+99 ⚙️ - SYSTEM/Backup/cofre/
+99 ⚙️ - SYSTEM/Backup/cofre.tar.gz
+99 ⚙️ - SYSTEM/Backup/backup.log
+99 ⚙️ - SYSTEM/Backup/.cofre-hash
